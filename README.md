@@ -12,9 +12,9 @@ Welcome to the repository for a custom C++ hash table implementation. This proje
 ## Getting Started
 To use the hash table in your project, simply clone the repository and include the Hash_Table.h file in your source code.
 
-** git clone https://github.com/your-username/HashTable.git **
+**git clone https://github.com/koapch-artem/HashTable.git**
 
-*** Here's a quick example to get you started: ***
+***Here's a quick example to get you started:***
 
 ```
 #include "Hash_Table.h"
@@ -34,7 +34,7 @@ int main() {
 ```
 
 ## Usage
-*** To create a hash table, simply define a HashTable object with the desired key and value types: ***
+***To create a hash table, simply define a HashTable object with the desired key and value types:***
 
 ```
 HashTable<key_type, value_type> table;
