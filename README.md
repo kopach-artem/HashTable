@@ -62,6 +62,12 @@ Don't forget to give the project a star! Thanks again!
 ## License
 Distributed under the MIT License. See LICENSE for more information.
 
+## Acknowledgments
+
+- **Viktor Prutyanov** @viktor-prutyanov: Viktor was my supervisor for the Hash Tables project. His guidance and expertise were instrumental in the development and success of this project.
+
+
+
 ## Contact
 Your Name – @kopach-artem – kopach.artem@edu.bme.hu
 
